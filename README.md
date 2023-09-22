@@ -3,7 +3,7 @@
 I decided to add all of my Java in class work to a GitHub repo. Here it is. 
 
 # Packages
-- Arrays
+- arrays
     - `GreatestValue.java` finds the largest number in a list of numbers.
     - `ObjArray.java` demonstrates the functionality of an array of objects.
 - fibonacci
