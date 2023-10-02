@@ -1,7 +1,7 @@
 package strings;
 import java.util.Scanner;
 
-public class App {
+public class MadLibs {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a kind of relative: ");
