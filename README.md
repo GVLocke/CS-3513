@@ -19,6 +19,14 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
     - `Average.java` finds the average of a list of values
     - `Bidding.java` demonstrates the functionality of a while loop in a simple bidding program.
     - `Interest.java` calculates the compound interest after 10 years for a dollar amount and percentage.
+- messingwithfiles
+    - `CreateFile.java` demonstrates how to create a file using the `File.createNewFile()` method.
+    - `DisplayPicture.java` demonstrates how to display an image file in a `JFrame` window.
+    - `FileReadNums.java` demonstrates the functionality of the `FileInputStream` class by reading in data from a file as integers rather than strings.
+    - `GetFileInformation.java` demonstrates the different file data methods of the `File` class.
+    - `ReadFile.java` demonstrates the ability to read lines from a file using the `Scanner` class.
+    - `ReadFromPicture.java` uses a `FileInputString` object to print out each byte of an image file.
+    - `WriteToFile.java` demonstrates the basic functionality of the `FileWriter` class.
 - palindrome
     - `App.java` determines whether a string is a palindrome.
 - salarycalc
