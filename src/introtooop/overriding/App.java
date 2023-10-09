@@ -3,9 +3,9 @@ package introtooop.overriding;
 public class App {
     public static void main(String[] args) {
         Bank a = new Bank();
-        Arvest Arvest = new Arvest();
-        BankOfAmerica boa = new BankOfAmerica();
-        Citigroup citigroup = new Citigroup();
+        Bank Arvest = new Arvest();
+        Bank boa = new BankOfAmerica();
+        Bank citigroup = new Citigroup();
         a.fixInterestRate();
         System.out.println(a.getInterestRate());
         Arvest.fixInterestRate();
