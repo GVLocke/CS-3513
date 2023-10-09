@@ -1,4 +1,4 @@
-package inheritance;
+package introtooop.inheritance;
 // import java.util.Scanner;
 
 public class App {

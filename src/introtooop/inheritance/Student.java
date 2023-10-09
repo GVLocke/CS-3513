@@ -1,4 +1,4 @@
-package inheritance;
+package introtooop.inheritance;
 
 /**
  * A student at a university.

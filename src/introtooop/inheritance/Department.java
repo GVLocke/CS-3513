@@ -1,4 +1,4 @@
-package inheritance;
+package introtooop.inheritance;
 
 public class Department extends Institute {
     private String name;
