@@ -1,4 +1,4 @@
-package introtooop.interfaces;
+package introtooop.interfaces.intro;
 
 public interface CalcInf {
     int add(int a, int b);

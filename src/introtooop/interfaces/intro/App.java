@@ -1,4 +1,4 @@
-package introtooop.interfaces;
+package introtooop.interfaces.intro;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package introtooop.interfaces;
+package introtooop.interfaces.intro;
 
 public interface ManipulateInf {
     int digitSum(int num);

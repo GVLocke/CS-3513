@@ -1,4 +1,4 @@
-package introtooop.interfaces;
+package introtooop.interfaces.intro;
 
 public class InfTest implements CalcInf, ManipulateInf{
     @Override
