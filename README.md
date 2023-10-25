@@ -11,7 +11,7 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
 - functions
     - `Calculator.java` is a calculator program to demonstrate method overloading and switch cases.
     - `Test.java` is a test for some of the calculator funcionality.
-- introtoop
+- introtooop
     - `PrivateHelpers.java` demonstrates the functionality of mutator and accessor methods.
     - abstractclass
         - `App.java` demonstrates the functionality of abstract classes.
