@@ -13,8 +13,12 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
     - `Test.java` is a test for some of the calculator funcionality.
 - introtoop
     - `PrivateHelpers.java` demonstrates the functionality of mutator and accessor methods.
+    - abstractclass
+        - `App.java` demonstrates the functionality of abstract classes.
     - inheritance
         - `App.java` demonstrates the concept of class inheritance by having the `Student` class inherit properties from the `Department` class, which in turn inherits properties from the `Institute` class.
+    - interfaces
+        - `App.java` demonstrates the functionality of interfaces.
     - overriding
         - `App.java` demonstrates the concept of method overriding by having the different `Bank` child classes override the `fixInterestRate()` function.
 
