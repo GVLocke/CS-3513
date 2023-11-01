@@ -24,6 +24,8 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
             - `App.java` demonstrates the basic functionality of interfaces.
     - overriding
         - `App.java` demonstrates the concept of method overriding by having the different `Bank` child classes override the `fixInterestRate()` function.
+    - genericclass
+        - `tripleitem/App.java` and `wordcount/App.java` demonstrate the functionality of generic classes.
 
 - leapyear
     - `LeapYear.java` determines whether a given year is a leap year.
