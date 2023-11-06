@@ -7,10 +7,10 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
     - `GreatestValue.java` finds the largest number in a list of numbers.
     - `ObjArray.java` demonstrates the functionality of an array of objects.
 - fibonacci
-    - `Fibonacci.java` prints the Fibonacci sequence up to a user-inputed integer.
+    - `Fibonacci.java` prints the Fibonacci sequence up to a user-inputted integer.
 - functions
     - `Calculator.java` is a calculator program to demonstrate method overloading and switch cases.
-    - `Test.java` is a test for some of the calculator funcionality.
+    - `Test.java` is a test for some of the calculator functionality.
 - introtooop
     - `PrivateHelpers.java` demonstrates the functionality of mutator and accessor methods.
     - abstractclass
