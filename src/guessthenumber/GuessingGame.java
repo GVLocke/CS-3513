@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Random;
 
 public class GuessingGame {
-    private HashSet<Integer> guessSet = new HashSet<Integer>();
+    private final HashSet<Integer> guessSet = new HashSet<Integer>();
     private int guessCount = 0;
     private final int allowedGuesses;
 
