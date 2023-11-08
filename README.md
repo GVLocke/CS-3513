@@ -11,6 +11,8 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
 - functions
     - `Calculator.java` is a calculator program to demonstrate method overloading and switch cases.
     - `Test.java` is a test for some of the calculator functionality.
+- guessthenumber
+    - `App.java` is a simple guessing game that demonstrates the functionality of the `HashSet` data structure.
 - introtooop
     - `PrivateHelpers.java` demonstrates the functionality of mutator and accessor methods.
     - abstractclass
@@ -52,6 +54,11 @@ I decided to add all of my Java in class work to a GitHub repo. Here it is.
 - swapping
     - `SwapNoTemp.java` swaps two variables without using a temp variable.
     - `SwapWithTemp` swaps two variables using a temp variable.
+- swing
+    - `EmptyFrame.java` is the most barebones Swing application that simply displays a blank frame.
+    - `HistogramViewer.java` displays a simple histogram graph.
+    - `SalaryGridGUI.java` introduces the use of a `GridBagLayout`.
+    - `SalaryGUI.java` is a simple GUI app that calculates the yearly salary corresponding to an hourly wage.
 - tollcalculation
     - `App.java` calculates the toll for a driver based on when they passed the toll booth.
     - `ImprovedApp.java` does the same thing but uses the LocalTime library to simplify the code.
